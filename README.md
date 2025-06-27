@@ -14,6 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://example.com/romans12">
     <meta property="og:image" content="https://example.com/logo.png">
+    <meta name="google-site-verification" content="q1okTmytzTRDbQe-N2mksvSueTj6ju1bBtUiJ6qUs8k" />
     <style>
         /* Base Styles */
         :root {
